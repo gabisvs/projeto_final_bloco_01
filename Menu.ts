@@ -16,7 +16,7 @@ export function main() {
         console.log("                                                      ");
         console.log("             [1] Criar Produto                        ");
         console.log("             [2] Exibir todos os Produtos             ");
-        console.log("             [3] Buscar Produto por ID                ");
+        console.log("             [3] Buscar Produto por Id                ");
         console.log("             [4] Atualizar Dados do Produto           ");
         console.log("             [5] Remover Produto                      ");
         console.log("             [6] Sair                                 ");
