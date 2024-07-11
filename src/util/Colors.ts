@@ -19,6 +19,9 @@ export const colors = {
 	    magentastrong : "\x1b[1;35m",
 	    cyanstrong : "\x1b[1;36m",
         whitestrong: "\x1b[1;37m",
+        orange: "\x1b[38;2;255;165;0m",
+        darkblue: "\x1b[38;2;0;0;139m",
+        burntOrange: "\x1b[38;2;255;140;0m"
     },
     bg: {
         black: "\x1b[40m",
